@@ -1,0 +1,62 @@
+/* .weather-card{
+    color: white;
+    border: 2px rgb(0, 0, 0);
+    background-color: rgb(39, 37, 37);
+    border-radius: 3px;
+    width: 300px;
+    height: 150px;
+    margin:auto;
+} */
+.city-name{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    Font-style: Regular;
+    Font-size: 38px;
+    Vertical-align: Top;
+    Letter-spacing: 0.37px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+}
+.city-temperature{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    Font-style: Thin;
+    Font-size: 35px;
+    margin: 0;
+    padding-top: 0%;
+}
+.search{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    Font-size: 20px;
+}
+.flexbox-div{
+    display: flexbox;
+    align-items: center;
+}
+.ulist{
+    list-style: none;
+}
+.city-temperature-minmax{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    Font-style: Thin;
+    Font-size: 20px;
+    margin: 0;
+    padding-top: 0%;
+}
+
+.display-card{
+    border: 3px rgb(15, 1, 1);
+    width: auto;
+    text-align: center;
+    width: 350px;
+    margin: auto;
+}
